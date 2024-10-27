@@ -345,6 +345,14 @@ Onde:
 
 ![cat em relatório 4](../Evidencias/relatorio4.png)
 
+### Relatório final - 27/10 (Executado manualmente)
+
+![cat em relatório final](../Evidencias/cat-relatorio-final.png)
+
+### Listagem de diretórios
+
+![ls -R em ecommerce](../Evidencias/execucao-consolidador.png)
+
 ## Problemas encontrados
 
 Durante o desenvolvimento, encontrei dificuldades ao implementar as funcionalidades de busca do primeiro e último registro de venda no arquivo _dados_de_vendas.csv_.
