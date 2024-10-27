@@ -1,0 +1,66 @@
+id,produto,quantidade,preco,data
+1,cadeira gamer,2,2500.00,01/01/2024
+2,caneca termica,8,120.00,02/01/2024
+3,fone de ouvido gamer,5,280.00,03/01/2024
+4,mesa para computador,3,1800.00,04/01/2024
+5,hub USB,9,50.00,05/01/2024
+6,camera webcam HD,6,500.00,06/01/2024
+7,monitor LED,8,1000.00,07/01/2024
+8,cadeira ergonomica,4,900.00,08/01/2024
+9,camera de acao,3,850.00,09/01/2024
+10,mouse gamer,2,200.00,10/01/2024
+11,smartphone,10,1500.00,11/01/2024
+12,caixa de som portatil,12,300.00,12/01/2024
+13,cozinha compacta,7,4500.00,13/01/2024
+14,armario de cozinha,15,1800.00,14/01/2024
+15,mesa de jantar,10,2400.00,15/01/2024
+16,cadeira de cozinha,18,220.00,16/01/2024
+17,abajur decorativo,6,95.00,17/01/2024
+18,espelho decorativo,3,430.00,18/01/2024
+19,armario de banheiro,8,560.00,19/01/2024
+20,toalha de banho,20,45.00,20/01/2024
+21,conjunto de pratos,5,300.00,21/01/2024
+22,liquidificador,7,200.00,22/01/2024
+23,espremedor de frutas,4,70.00,23/01/2024
+24,maquina de cafe expresso,10,800.00,24/01/2024
+25,secador de cabelo,12,150.00,25/01/2024
+26,ferro de cabelo,9,210.00,26/01/2024
+27,massageador corporal,7,150.00,27/01/2024
+28,dispenser de alcool gel,4,25.00,28/01/2024
+29,guardanapo decorado,10,15.00,29/01/2024
+30,pente de madeira,8,20.00,30/01/2024
+31,geladeira duplex,2,3000.00,31/01/2024
+32,lavadora de roupas,6,2200.00,01/02/2024
+33,ventilador de mesa,10,180.00,02/02/2024
+34,aquecedor eletrico,5,900.00,03/02/2024
+35,forno eletrico,8,350.00,04/02/2024
+36,televisor LED,4,2900.00,05/02/2024
+52,conjunto de talheres,10,90.00,06/02/2024
+53,kit para churrasco,6,150.00,07/02/2024
+54,tabuleiro de damas,4,100.00,08/02/2024
+55,conjunto de cartas,5,25.00,09/02/2024
+56,jogo de memoria,14,50.00,10/02/2024
+57,bicicleta eletrica,3,1200.00,11/02/2024
+58,relogio fitness,7,320.00,12/02/2024
+59,medidor de pressao,6,180.00,13/02/2024
+60,cadeado de alta seguranca,9,70.00,14/02/2024
+61,saco de dormir,5,250.00,15/02/2024
+62,lanterna LED,12,40.00,16/02/2024
+63,capa de chuva leve,11,55.00,17/02/2024
+64,mochila escolar,7,150.00,18/02/2024
+65,biscoito de arroz,16,10.00,19/02/2024
+68,molho de tomate,12,5.00,20/02/2024
+70,shake proteico,6,22.00,21/02/2024
+71,barras de cereal,8,12.00,22/02/2024
+76,conjunto de chaves,4,270.00,23/02/2024
+77,marreta pequena,5,85.00,24/02/2024
+78,grampos de parede,18,2.00,25/02/2024
+80,servico de instalacao,2,150.00,26/02/2024
+81,kit jardinagem,10,90.00,27/02/2024
+82,fita isolante,15,12.00,28/02/2024
+83,vela aromatica,20,35.00,01/03/2024
+85,cobertor macio,3,120.00,02/03/2024
+86,sabonete organico,14,15.00,03/03/2024
+88,kit de costura,8,80.00,04/03/2024
+89,kit higiene pessoal,6,100.00,05/03/2024
+90,balanca digital,10,95.00,06/03/2024

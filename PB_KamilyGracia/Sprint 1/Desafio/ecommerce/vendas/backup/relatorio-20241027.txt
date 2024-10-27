@@ -1,0 +1,14 @@
+2024/10/27 15:27
+Primeira venda: 01/01/2024
+Última venda: 31/01/2024
+Quantidade de ítens (distintos) vendidos: 65
+1,cadeira gamer,2,2500.00,01/01/2024
+2,caneca termica,8,120.00,02/01/2024
+3,fone de ouvido gamer,5,280.00,03/01/2024
+4,mesa para computador,3,1800.00,04/01/2024
+5,hub USB,9,50.00,05/01/2024
+6,camera webcam HD,6,500.00,06/01/2024
+7,monitor LED,8,1000.00,07/01/2024
+8,cadeira ergonomica,4,900.00,08/01/2024
+9,camera de acao,3,850.00,09/01/2024
+10,mouse gamer,2,200.00,10/01/2024

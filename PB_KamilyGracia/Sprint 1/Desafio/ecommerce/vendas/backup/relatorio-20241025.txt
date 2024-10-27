@@ -1,0 +1,14 @@
+2024/10/25 15:27
+Primeira venda: 01/01/2023
+Última venda: 31/03/2023
+Quantidade de ítens (distintos) vendidos: 65
+1,smartphone,2,1200.00,01/01/2023
+2,tablet,5,600.00,02/01/2023
+3,headphone,3,250.00,03/01/2023
+4,carregador portatil,20,80.00,04/01/2023
+5,case para celular,8,30.00,05/01/2023
+6,camera digital,7,1500.00,06/01/2023
+7,monitor 4K,6,2000.00,07/01/2023
+8,teclado mecanico,4,450.00,08/01/2023
+9,microfone condensador,12,500.00,09/01/2023
+10,mouse gamer,2,300.00,10/01/2023
