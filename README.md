@@ -28,10 +28,13 @@ Meus hobbies atualmente são:
      1. HTML;
      2. CSS;
   4. Banco de Dados
-     1. MySQL;
+     1. Relacional
+        1. MySQL Workbench;
+        2. PostgreSQL;
+        3. SQLite;
 
 ## Sprints Realizadas
 
 1. [Sprint 1](Sprint%201/README.md)
-
+2. [Sprint 2]()  
 ___
