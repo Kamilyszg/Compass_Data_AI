@@ -225,6 +225,7 @@ Na segunda sprint, pude aprender sobre banco de dados **SQL**, desde seu planeja
 
 <details>
 <summary>Funções;</summary>
+
 ```SQL 
     CREATE FUNCTION nome_funcao(parametro1, parametro2)
     RETURNS tipo_de_retorno
