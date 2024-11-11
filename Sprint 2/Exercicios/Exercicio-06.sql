@@ -1,5 +1,5 @@
-SELECT DISTINCT 
-	autor.codautor, 
+SELECT 
+	DISTINCT autor.codautor, 
 	autor.nome,
 	COUNT(livro.publicacao) AS quantidade_publicacoes
 FROM autor
