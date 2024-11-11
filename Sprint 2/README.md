@@ -335,7 +335,7 @@ ___
 
 **AWS Partner: Sales Accreditation (Business):** No curso, aprendi sobre o funcionamento dos microserviços da AWS e sobre estratégias para lidar com objeções de clientes interessados em adquirir esses recursos. A AWS oferece inúmeras oportunidades de negócios e opções personalizadas de gerenciamento e financiamento para facilitar a adoção da nuvem. Cada perfil de cliente tem acesso a uma variedade de recursos adaptáveis às suas necessidades, ajudando-os a crescer juntamente com tamanha multinacional.
 
-__
+___
 
 # Exercícios
 
@@ -809,9 +809,6 @@ A exportação de ambos os resultados foi realizada pela ferramenta "Exportar da
 # Certificados
 
 
-Certificado do Curso AWS Sales: 
+Certificado do Curso AWS Partner: Sales Accreditation (Business): 
 
-![Curso ABC](certificados/sample.png)
-
--->
-
+![Curso AWS Partner: Sales Accreditation (Business)](../Sprint%202/Certificados/Kamily_AWS%20Course%20Completion%20Certificate_page-0001.jpg)

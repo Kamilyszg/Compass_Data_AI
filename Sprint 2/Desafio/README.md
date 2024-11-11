@@ -11,9 +11,9 @@ Para isso, foi disponibilizado um banco de dados onde todos os dados da concessi
 
 # Etapas
 
-[Etapa I - Script SQL do Modelo Relacional](./etapa-1/Desafio%20MER.sql)
-
 ## 1. Modelagem Relacional
+
+[Etapa I - Script SQL do Modelo Relacional](./etapa-1/Desafio%20MER.sql)
 
 Começando pelo modelo relacional, foi necessário dividir os dados presentes nas tabelas locação em diferentes entidades:
 
