@@ -930,8 +930,8 @@ Kubernetes é uma plataforma avançada de orquestração de containers, criada p
 
 Certificado do Curso AWS Partner: Credenciamento (Técnico)
 
-![Curso Credenciamento Técnico](certificados/Certificado%20AWS%20Credenciamento%20Tecnico.png)
+![Curso Credenciamento Técnico](Certificados/Certificado%20AWS%20Credenciamento%20Tecnico.png)
 
 Certificado do Curso AWS Partner: Technicals Essentials
 
-![Curso Technicals Essentials](certificados/Certificado%20AWS%20Technical%20Essentials.png)
+![Curso Technicals Essentials](Certificados/Certificado%20AWS%20Technical%20Essentials.png)
