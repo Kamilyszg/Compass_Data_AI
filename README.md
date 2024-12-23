@@ -33,7 +33,10 @@ Meus hobbies atualmente são:
         2. PostgreSQL;
         3. SQLite;
   5. Conteneirização
-     1. Docker.
+     1. Docker;
+  6. AWS
+     1. S3;
+     2. EC2.
 
 ## Sprints Realizadas
 
@@ -41,4 +44,5 @@ Meus hobbies atualmente são:
 2. [Sprint 2](./Sprint%202/README.md)  
 3. [Sprint 3](./Sprint%203/README.md)
 4. [Sprint 4](./Sprint%204/README.md)
+5. [Sprint 5](./Sprint%205/README.md)
 ___
