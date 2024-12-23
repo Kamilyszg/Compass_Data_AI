@@ -118,6 +118,7 @@ O exercício consiste na criação de um bucket no serviço Amazon S3 da AWS par
   * Teste de acesso ao endpoint
   
   ![Teste de acesso](./Evidencias/Exercicio/Teste-Acesso1.png)
+
   Obs: O acesso à pagina é bloqueado devido a configuração padrão de bloqueio de acesso ao público habilitada.
 
 3. Edição das configurações de bloqueio de acesso ao público:
@@ -150,11 +151,13 @@ O exercício consiste na criação de um bucket no serviço Amazon S3 da AWS par
   * Criação do arquivo *index.html* (documento de índice informado anteriormente)
   
   ![Arquivo index.html](./Evidencias/Exercicio/index.html.png)
+
   OBS: Após a criação o arquivo index.html, este pode ser "arrastado" do gerenciador de arquivos local para a seção "Objetos" assim o upload será realizado.
 
   *  Criação do arquivo *404.html* (documento de erro informado anteriormente)
   
   ![Arquivo 404.html](./Evidencias/Exercicio/404.html.png)
+  
   OBS: Após a criação o arquivo 404.html, este pode ser "arrastado" do gerenciador de arquivos local para a seção "Objetos" assim o upload será realizado.
 
   * Arquivo *nomes.csv*: deve ser criada uma pasta "dados" que armazenará o arquivo e esta deverá ser "arrastada" para a seção objetos.
