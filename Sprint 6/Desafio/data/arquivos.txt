@@ -1,0 +1,2 @@
+Nesta pasta continham os arquivos movies.csv e series.csv, no entanto para fins de compartilhamento com o 
+github, os arquivos foram removidos.

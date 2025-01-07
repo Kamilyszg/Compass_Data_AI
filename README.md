@@ -45,4 +45,5 @@ Meus hobbies atualmente são:
 3. [Sprint 3](./Sprint%203/README.md)
 4. [Sprint 4](./Sprint%204/README.md)
 5. [Sprint 5](./Sprint%205/README.md)
+6. [Sprint 6](./Sprint%206/README.md)
 ___

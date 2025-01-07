@@ -1,0 +1,14 @@
+FROM python:3.9.21-slim
+
+WORKDIR /app
+
+RUN pip install boto3
+
+COPY Script-Raw.py .
+
+COPY "data/movies.csv" "/vol/movies.csv"
+COPY "data/series.csv" "/vol/series.csv"
+
+VOLUME [ "/vol" ]
+
+CMD [ "python", "Script-Raw.py"]
