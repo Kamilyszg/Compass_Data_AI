@@ -1,6 +1,6 @@
 # Informações
 
-Na sexta sprint, pude aprender sobre os frameworks Spark e Hadoop que fazem o gerenciamento e processamento de grandes quantidades de dados. Por meio das atividades e desafio, pude colocar em prática os conhecimentos aprendidos nessa sprint e nas anteriores. Além disso, pude utilizar os serviços da AWS S3, Glue e Lambda, possibilitando uma noção melhor de como é a integração dos serviços e a sua utilização no dia a dia.
+Na sétima sprint, pude aprender sobre os frameworks Spark e Hadoop que fazem o gerenciamento e processamento de grandes quantidades de dados. Por meio das atividades e desafio, pude colocar em prática os conhecimentos aprendidos nessa sprint e nas anteriores. Além disso, pude utilizar os serviços da AWS S3, Glue e Lambda, possibilitando uma noção melhor de como é a integração dos serviços e a sua utilização no dia a dia.
 
 ## Resumo
 
@@ -507,7 +507,7 @@ Arquitetura do Apache Spark:
 
 # Exercícios e Evidências
 
-Os exercícios visam a aplicação dos conceitos aprenndidos e a integração com os serviços AWS, tais como AWS Glue, AWS Lambda, IAM, Athena, etc.
+Os exercícios visam a aplicação dos conceitos aprendidos e a integração com os serviços AWS, tais como AWS Glue, AWS Lambda, IAM, Athena, etc.
 
 ## Exercício 1 - Apache Spark: Contador de Palavras
 

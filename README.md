@@ -38,7 +38,8 @@ Meus hobbies atualmente são:
      1. S3;
      2. EC2.
      3. Glue;
-     4. Lambda
+     4. Lambda;
+     5. Athena.
 
 ## Sprints Realizadas
 
@@ -49,4 +50,5 @@ Meus hobbies atualmente são:
 5. [Sprint 5](./Sprint%205/README.md)
 6. [Sprint 6](./Sprint%206/README.md)
 7. [Sprint 7](./Sprint%207/README.md)
+8. [Sprint 8](./Sprint%208/README.md)
 ___
