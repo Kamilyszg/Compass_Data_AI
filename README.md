@@ -28,10 +28,9 @@ Meus hobbies atualmente são:
      1. HTML;
      2. CSS;
   4. Banco de Dados
-     1. Relacional
-        1. MySQL Workbench;
-        2. PostgreSQL;
-        3. SQLite;
+     1. MySQL Workbench;
+     2. PostgreSQL;
+     3. SQLite;
   5. Conteneirização
      1. Docker;
   6. AWS
@@ -39,7 +38,8 @@ Meus hobbies atualmente são:
      2. EC2.
      3. Glue;
      4. Lambda;
-     5. Athena.
+     5. Athena;
+     6. Lake Formation.
 
 ## Sprints Realizadas
 
@@ -51,4 +51,5 @@ Meus hobbies atualmente são:
 6. [Sprint 6](./Sprint%206/README.md)
 7. [Sprint 7](./Sprint%207/README.md)
 8. [Sprint 8](./Sprint%208/README.md)
+9. [Sprint 9](./Sprint%209/README.md)
 ___
