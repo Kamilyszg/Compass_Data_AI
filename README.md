@@ -39,7 +39,8 @@ Meus hobbies atualmente são:
      3. Glue;
      4. Lambda;
      5. Athena;
-     6. Lake Formation.
+     6. Lake Formation;
+     7. QuickSight.
 
 ## Sprints Realizadas
 
@@ -52,4 +53,5 @@ Meus hobbies atualmente são:
 7. [Sprint 7](./Sprint%207/README.md)
 8. [Sprint 8](./Sprint%208/README.md)
 9. [Sprint 9](./Sprint%209/README.md)
+10. [Sprint 10](./Sprint10/README.md)
 ___
